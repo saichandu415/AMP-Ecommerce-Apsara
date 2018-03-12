@@ -195,7 +195,7 @@ limitations under the License.
         </div>
       </div>
 
-      <amp-list class="mx1 md-mxn1" [src]="'api/' + products.filter + '-' + products.category + '-products.json'" src="https://149.129.134.27/shirts/getjson" height="1000" width="300" layout="responsive">
+      <amp-list class="mx1 md-mxn1" [src]="'https://149.129.130.26:443/ampdemo/getData?selection=' + products.filter + '-' + products.category + '-products'" src="https://149.129.130.26:443/ampdemo/getData?selection=high-low-all-products" height="1000" width="300" layout="responsive">
         <template type="amp-mustache">
           <a href="product-details.amp.html" target="_self" class="commerce-listing-product text-decoration-none inline-block col-6 md-col-4 lg-col-3 px1 mb2 md-mb4 relative">
             <div class="flex flex-column justify-between">
