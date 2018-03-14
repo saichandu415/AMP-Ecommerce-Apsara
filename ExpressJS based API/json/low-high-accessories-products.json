@@ -1,6 +1,4 @@
 {
-	"items": [
-		{
 			"name": "Leather Saddle",
 			"description": "Firm, yet comfortable for long leisurely rides.",
 			"price": 476,
@@ -42,5 +40,3 @@
 			"image": "/img/e-commerce/product/product-3.jpg",
 			"category": "accessories"
 		}
-	]
-}
