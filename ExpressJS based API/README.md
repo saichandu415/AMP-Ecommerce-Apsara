@@ -1,3 +1,3 @@
-# Codelab: Advanced interactivity in AMP
+# Node based ExpressJS API to interact with Alibaba Cloud ApsaraDB for MongoDB
 
-A codelab for learning how to use data binding and expressions to build rich interactive AMP pages.
+This API is created based on ExpressJS API to retrieve data from Alibaba Cloud ApsaraDB for MongoDB
