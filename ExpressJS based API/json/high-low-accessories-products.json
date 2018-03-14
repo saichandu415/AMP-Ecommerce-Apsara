@@ -1,6 +1,4 @@
 {
-	"items": [
-		{
 			"name": "Chain set",
 			"description": "Silver alloy construction for durability.",
 			"price": 867,
@@ -42,5 +40,3 @@
 			"image": "/img/e-commerce/product/product-4.jpg",
 			"category": "accessories"
 		}
-	]
-}
