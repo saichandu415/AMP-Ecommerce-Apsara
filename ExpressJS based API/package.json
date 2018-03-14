@@ -1,18 +1,11 @@
 {
-  "name": "advanced-interactivity-in-amp",
+  "name": "Node based Express API",
   "version": "0.1.0",
   "description": "Codelab that explores the tools for building rich interactive content in AMP.",
   "main": "app.js",
-  "keywords": [
-    "AMP",
-    "amp-bind",
-    "Google",
-    "I/O 2017",
-    "Codelab"
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/googlecodelabs/advanced-interactivity-in-amp.git"
+    "url": ""
   },
   "author": "saisarathchandrap@gmail.com",
   "license": "Apache-2.0",
