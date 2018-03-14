@@ -1,6 +1,4 @@
 {
-	"items": [
-		{
 			"name": "Horn Handles",
 			"description": "Grippingly durable and stylish.",
 			"price": 838,
@@ -21,5 +19,3 @@
 			"image": "/img/e-commerce/product/product-10.jpg",
 			"category": "components"
 		}
-	]
-}
